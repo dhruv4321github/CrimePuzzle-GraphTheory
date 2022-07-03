@@ -1,4 +1,4 @@
-# CrimePuzzle-GraphTheory
+# Solving Crime Puzzles Using Graph Theory
 Made a code on Python, which allowed one to solve complicated crime puzzles with the help of graph theory. This project uses an adjacency matrix to solve the crime puzzles.
 
 ## Table of Contents
